@@ -56,7 +56,11 @@ AIarm is an innovative iOS application that reimagines the traditional alarm exp
 
 ## Demo
 
-[Placeholder for demo video]
+
+
+https://github.com/user-attachments/assets/0d16d44c-c281-431c-88f8-43f75bd3b064
+
+
 
 ## Contributing
 
