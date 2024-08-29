@@ -1,6 +1,6 @@
 # AIarm
 
-AIarm is an innovative iOS application that reimagines the traditional alarm experience by incorporating AI-powered personalized wake-up calls. This app allows users to create custom AI agents with unique personalities, moods, and motivations to deliver tailored wake-up messages.
+AIarm is an innovative iOS application that reimagines the traditional alarm experience by incorporating AI-powered personalized alarm calls. This app allows users to create custom AI agents with unique personalities, moods, and motivations to deliver tailored alarm messages.
 
 ## Features
 
