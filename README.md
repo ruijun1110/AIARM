@@ -43,12 +43,7 @@ AIarm is an innovative iOS application that reimagines the traditional alarm exp
    open AIarm.xcodeproj
    ```
 
-4. In Xcode, navigate to the `OpenAISettings.swift` file and replace the placeholder API key with your actual OpenAI API key:
-   ```swift
-   static let apiKey = "YOUR_OPENAI_API_KEY_HERE"
-   ```
-
-5. Build and run the project in Xcode using a simulator or a physical iOS device.
+4. Build and run the project in Xcode using a simulator or a physical iOS device.
 
 ## Usage
 
